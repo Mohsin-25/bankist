@@ -1,2 +1,2 @@
 # bankist
-I did not code this, learned through a course.
+Learned it through a course.
